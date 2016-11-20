@@ -1,0 +1,8 @@
+[user]
+	name = Sebastian Bayo Gaspar
+	email = sbayogas@gmail.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto

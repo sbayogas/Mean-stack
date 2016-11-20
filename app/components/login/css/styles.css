@@ -1,0 +1,21 @@
+.login-container{
+    width: 400px;
+    margin: 10% auto 0;
+    padding: 30px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: white;
+    -webkit-box-shadow: 1px 1px 7px #ddd;
+    -moz-box-shadow: 1px 1px 7px #ddd;
+    box-shadow: 1px 1px 7px #ddd;
+}
+
+.login-container md-input{
+    display: block;
+    margin: 0 auto 45px;
+}
+
+.login-container button{
+    width: 100%;
+}
